@@ -71,7 +71,7 @@ CSV File  →  MongoDB (Import & Clean)  →  JSON Export  →  Tableau  →  Da
 
 ### Dashboard 1: Grocery Stores Sales Analysis
 
-<img width="3774" height="2324" alt="Grocessory Store Sales Analysis" src="https://github.com/user-attachments/assets/d84c16b9-74af-4b0f-b2d5-c150668fb43b" />
+<img width="3774" height="2324" alt="Grocessory Store Sales Analysis" src="https://github.com/user-attachments/assets/0d532be3-9286-474d-816c-3fe35f83f32f" />
 
 
 #### 🔹 KPIs
@@ -95,7 +95,8 @@ CSV File  →  MongoDB (Import & Clean)  →  JSON Export  →  Tableau  →  Da
 
 ### Dashboard 2: Grocery Stores Customers Overview
 
-<img width="3024" height="2324" alt="Grocessory Stores Customers Overview" src="https://github.com/user-attachments/assets/d7ffa7d5-c462-4e06-8638-0ded3e81f3da" />
+<img width="2399" height="2324" alt="Grocessory Stores Customers Overview" src="https://github.com/user-attachments/assets/7e6fd227-ee4c-4876-b275-79b9cba0b556" />
+
 
 
 #### 🔹 KPIs
